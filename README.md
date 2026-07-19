@@ -7,7 +7,7 @@ Currently, I'm focused on:<br>
 ~Generative AI & Prompt Engineering<br>
   <br>
 I'm always eager to learn, collaborate, and grow while building technology that creates real-world impact.</h3>
-## 🌐 Socials:
+<hr>
 
 
 # 💻 Tech Stack:
