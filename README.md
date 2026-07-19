@@ -1,4 +1,4 @@
-<h3>Hi, I'm Palak, a Computer Engineering student passionate about Artificial Intelligence, Machine Learning, and Software Development.
+<h3>Hi, I'm Palak Jain, a Computer Engineering student passionate about Artificial Intelligence, Machine Learning, and Software Development.
 <hr>
 Currently, I'm focused on:<br>
 ~Artificial Intelligence & Machine Learning<br>
